@@ -1,0 +1,16 @@
+RAG Evaluation with Langchain
+
+Creating a simple RAG pipeline with LangChain 
+Transforming the data
+Loading the Embeddings 
+Faiss VectoreStore 
+Creating a Retriever 
+Creating a RAG Chain
+Creating a Prompt Template
+Setting up the basic QA Chain. 
+
+Future Scope: 
+Evaluating our pipeline with the Ragas library
+Making an adjustment to our RAG pipeline
+Evaluating our adjusted pipeline against our baseline
+
